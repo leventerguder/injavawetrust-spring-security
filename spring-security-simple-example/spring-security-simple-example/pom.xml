@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.injavawetrust</groupId>
-	<artifactId>spring-security-simple-example</artifactId>
+	<artifactId>spring-security-example-01</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-security-simple-example</name>
 	<description>Demo project for Spring Security</description>
